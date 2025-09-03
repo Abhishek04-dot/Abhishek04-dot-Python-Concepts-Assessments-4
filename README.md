@@ -1,7 +1,7 @@
 # Task 1
 - Opens sample.txt in read/write mode (r+).
 - Reads and prints the file content.
-- Closes the file after reading (good practice).
+- Closes the file after reading.
 - Handles missing file errors gracefully using try-except.
 
 # Task 2
